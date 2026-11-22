@@ -1,0 +1,26 @@
+A/B TESTING AND HYPOTHESIS TESTING RESULTS
+
+Group A:
+Visitors: 1000
+Conversions: 130
+Conversion Rate: 13%
+
+Group B:
+Visitors: 1000
+Conversions: 214
+Conversion Rate: 21.4%
+
+HYPOTHESIS TESTING:
+
+Null Hypothesis (H0):
+There is no significant difference between Group A and Group B.
+
+Alternative Hypothesis (H1):
+There is a significant difference between Group A and Group B.
+
+Significance Level: 0.05
+
+Conclusion:
+Group B has a higher conversion rate than Group A.
+The statistical test is used to determine whether this difference
+is statistically significant.
